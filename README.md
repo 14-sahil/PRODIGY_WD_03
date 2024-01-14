@@ -5,7 +5,7 @@ To build a tic-tac-toe web application, you can use HTML, CSS, and JavaScript. B
 
 
 
-https://github.com/YashChavanWeb/PRODIGY_WD_03/assets/112185595/3c79cb22-719d-450e-be7f-adf83dbc9c8a
+
 
 
 # Learnings from the Project:
